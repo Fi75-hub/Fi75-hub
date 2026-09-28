@@ -1,8 +1,8 @@
 # Hi, I'm Faizan Ilyas
 
-I'm a BSc Computer Science student at the University of London, studying through LGS International Degree Programme in Lahore. I have internship experience in web development and am building practical skills through projects in programming, web applications, data visualisation and computer graphics.
+I'm studying BSc Computer Science with the University of London through LGS International Degree Programme in Lahore. I've completed a web development internship and use my coursework projects to practise Python, JavaScript and C++.
 
-I'm looking for an internship in Lahore where I can contribute to team projects, learn from experienced developers and explore different areas of computing. My interests include software development, artificial intelligence and cybersecurity.
+I'm looking for an internship in Lahore where I can work on real projects, learn from a team and build confidence with the tools used in day-to-day development. I'm open to opportunities across computing.
 
 ## Projects
 
@@ -24,5 +24,3 @@ I also worked on a [stock and revenue dashboard](https://github.com/Fi75-hub/sto
 - **Programming:** Python, JavaScript and C++.
 - **Web development:** HTML, CSS, Node.js, Express and SQL.
 - **Applied work:** data visualisation, text processing, computer graphics and object-oriented programming.
-
-My repositories document what each project does, how to run it and the coursework or learning context behind it.
